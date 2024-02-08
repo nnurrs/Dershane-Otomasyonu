@@ -18,9 +18,9 @@ Dosya okuma işlemi sona erdikten sonra kullanıcıya aşağıdaki gibi bir men�
 **9 – Öğrencileri Ayrıntılı Listele():** Listedeki öğrenciler ve aldıkları ders bilgileri ekrana yazdırılır.  
 **10 – Öğrencilerin Ödeyeceği Tutarı Hesapla():** Kullanıcıdan alınan Id bilgisine göre öğrencinin dershaneye ödeyeceği aylık toplam ücret hesaplanır.
 Her ders ücreti haftalık 400 TL’dir. Kurs kampanyaları şu şekildedir:   
-    *- Kampanya 1:* Bu kampanya 2 ders alan öğrenciler içindir. Bu öğrencilere ikinci ders %5 indirimlidir.  
-    *- Kampanya 2:* Bu kampanya 3 ders alan öğrenciler içindir. Bu öğrencilere 3. ders %15 indirimlidir.  
-    *- Kampanya 3:* Bu kampanya 3 ders üstü alan öğrenciler içindir. Bu öğrencilere ise her ders %10 indirimlidir.  
+    ***- Kampanya 1:*** Bu kampanya 2 ders alan öğrenciler içindir. Bu öğrencilere ikinci ders %5 indirimlidir.  
+    ***- Kampanya 2:*** Bu kampanya 3 ders alan öğrenciler içindir. Bu öğrencilere 3. ders %15 indirimlidir.  
+    ***- Kampanya 3:*** Bu kampanya 3 ders üstü alan öğrenciler içindir. Bu öğrencilere ise her ders %10 indirimlidir.  
 **11 - Çıkış():** Ogrenciler listesindeki öğreci bilgileri ogrenci.txt dosyasına, Dersler listesindeki ders bilgileri ders.txt dosyasına yazılır. Dosyaya yazma işlemi yapılacağı zaman, dosyadaki 
 önceki kayıtlar silinir ve yeni bilgiler yazılır. 
 
