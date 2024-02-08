@@ -7,7 +7,7 @@ Bu dershanede birçok ders verilmektedir. Dershaneye kaydolan öğrenci bir veya
 Ogrenci.java ve Ders.java sınıfları, Kapsülleme (Encapsulation) özelliklerini sağlamaktadır.  
 
 Dosya okuma işlemi sona erdikten sonra kullanıcıya aşağıdaki gibi bir menü sunulmaktadır:  
-1 – Ders Ekle(): Kullanıcıdan alına ders, dersler array list'ine eklenir.  
+** 1 – Ders Ekle(): ** Kullanıcıdan alına ders, dersler array list'ine eklenir.  
 2 – Ders Listele(): Ders bilgileri ekrana yazdırılır.  
 3 – Ders Ara(): Kullanıcıdan alınan ders adına göre arama yapılır ve listelenir.  
 4 – Ders Sil(): Kullanıcıdan alınan ders adına göre ilgili ders silinir.  
