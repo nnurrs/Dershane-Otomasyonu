@@ -1,6 +1,6 @@
 # Dershane Otomasyonu  
 
-Java progarmlama dili ile geliştirilen, bir dershaneye kaydolan öğrencileri ve bu dershanede verilen derslerin takip edilebilmesini sağlayan bir otomasyondur. 
+Java programlama dili ile geliştirilen, bir dershaneye kaydolan öğrencileri ve bu dershanede verilen derslerin takip edilebilmesini sağlayan bir otomasyondur. 
 Bu dershanede birçok ders verilmektedir. Dershaneye kaydolan öğrenci bir veya birden fazla derse kaydolabilmektedir. 
 Öğrenci bilgileri, ders bilgileri ve öğrencilerin kaydolduğu ders bilgileri tutulacaktır.  
 
