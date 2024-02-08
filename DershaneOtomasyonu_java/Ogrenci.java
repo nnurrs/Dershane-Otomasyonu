@@ -1,4 +1,4 @@
-//Nadire Nur Sağlam /21100011042
+//Nadire Nur Sağlam
 
 package nesneOdev;
 
